@@ -1,17 +1,6 @@
-# inv_manager
+# Inventory App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enhanced Features:
+1. Edit Inline – Click an item to pre-fill the form for editing.
+2. Delete Confirmation – Alert dialog prevents accidental deletion.
+3. SnackBar Feedback – Shows confirmation messages for add, update, delete actions.
